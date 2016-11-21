@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DevMeeting</string>
+    <string name="tab_events">Eventos</string>
+    <string name="tab_map">Mapa</string>
+    <string name="action_update">Atualizar</string>
+    <string name="button_link">Saiba mais</string>
+    <string name="progress_message">Por favor, aguarde ...</string>
+    <string name="update_error">Serviço indisponível. Por favor, tente novamente mais tarde.</string>
+    <string name="update_success">Sua lista de eventos foi atualizada.</string>
+    <string name="update_map_error">Falha ao atualizar o mapa. Por favor, tente novamente mais tarde.</string>
+</resources>
